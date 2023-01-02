@@ -8,3 +8,10 @@ header{
     background-color: var( --headerBackground );
 }
 
+body{
+    background-color: var( --bodyBackground );
+}
+
+.card{
+    background-color: var( --headerBackground );
+}
